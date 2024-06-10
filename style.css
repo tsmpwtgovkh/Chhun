@@ -1,0 +1,35 @@
+h1 {
+    color: #333;
+      font-size: 2em;
+      margin: 0%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 40px;
+  }
+h2 {
+    color: #333;
+      font-size: 150%;
+      margin: 0%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 50px;
+  }
+p {
+    color: #fa0a0a;
+      font-size: 150%;
+      margin: 2%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 50px;
+}
+a {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 8px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+}
